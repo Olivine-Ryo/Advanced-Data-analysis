@@ -1,23 +1,24 @@
 # Advanced-Data-analysis
+Sample code for each data science section
 
-2. Least squares regression
+1. Least squares regression
 
-3. Sparse regression
+1. Sparse regression
 
-4. Robust regression
+1. Robust regression
 
-5. Least squares classification
+1. Least squares classification
 
-6. SVM classification
+1. SVM classification
 
-7. Probabilistic classification
+1. Probabilistic classification
 
-8. Adaptive regularization classification
+1. Adaptive regularization classification
 
-9. Classification based on covariate shift
+1. Classification based on covariate shift
 
-10.Locality Preserving Projection (LPP)
+1. Locality Preserving Projection (LPP)
 
-11.Fisher Discriminant Analysis (FDA)
+1. Fisher Discriminant Analysis (FDA)
 
-12.KernelPCA
+1. KernelPCA
